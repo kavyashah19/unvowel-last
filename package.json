@@ -1,0 +1,31 @@
+{
+  "name": "unvowel-last",
+  "version": "1.0.0",
+  "description": "Removes the last letter from a string if it is a vowel.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/unvowel-last.git"
+  },
+  "keywords": [
+    "unvowel",
+    "last",
+    "letter",
+    "word"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/unvowel-last/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/unvowel-last#readme",
+  "dependencies": {
+    "is-vowel": "^1.0.0"
+  }
+}
