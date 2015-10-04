@@ -1,6 +1,6 @@
 {
   "name": "unvowel-last",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Removes the last letter from a string if it is a vowel.",
   "main": "lib/index.js",
   "directories": {
@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/IonicaBizau/unvowel-last#readme",
   "dependencies": {
-    "is-vowel": "^1.0.0"
+    "is-vowel": "^1.0.0",
+    "last-char": "^1.0.0",
+    "remove-last-char": "^1.0.0"
   }
 }
