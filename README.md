@@ -5,7 +5,7 @@ Removes the last letter from a string if it is a vowel.
 ## Installation
 
 ```sh
-$ npm i -g unvowel-last
+$ npm i unvowel-last
 ```
 
 ## Example
