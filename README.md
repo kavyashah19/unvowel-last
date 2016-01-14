@@ -1,6 +1,6 @@
-# unvowel-last [![Support this project][donate-now]][paypal-donations]
+# unvowel-last [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/unvowel-last.svg)](https://www.npmjs.com/package/unvowel-last) [![Downloads](https://img.shields.io/npm/dt/unvowel-last.svg)](https://www.npmjs.com/package/unvowel-last) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Removes the last letter from a string if it is a vowel.
+> Removes the last letter from a string if it is a vowel.
 
 ## Installation
 
