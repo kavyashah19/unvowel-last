@@ -1,0 +1,13 @@
+// lib/index.js
+const isVowel = require('is-vowel');
+const removeLastChar = require('remove-last-char');
+
+function unvowelLast(str) {
+  const lastChar = str.charAt(str.length - 1);
+  if (isVowel(lastChar.toLowerCase()) || isVowel(lastChar.toUpperCase())) {
+    return removeLastChar(str);
+  }
+  return str;
+}
+
+module.exports = unvowelLast;
